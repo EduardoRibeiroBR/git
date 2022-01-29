@@ -2,3 +2,5 @@ Teste
 Entendendo o HEAD
 Esta linha foi modificada no ramo Master
 Esta linha foi modificada no ramo Teste
+
+Modificando o texto pelo repositório local 01
