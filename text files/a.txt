@@ -4,3 +4,4 @@ Esta linha foi modificada no ramo Master
 Esta linha foi modificada no ramo Teste
 
 Inserida uma nova linha pelo repositório local 02
+Modificando o texto pelo repositório local 01
